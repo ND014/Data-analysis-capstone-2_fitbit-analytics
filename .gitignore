@@ -1,0 +1,15 @@
+# Raw CSV files (available on Kaggle: FitBit Fitness Tracker Data)
+dailyActivity_merged.csv
+hourlyCalories_merged.csv
+hourlySteps_merged.csv
+sleepDay_merged.csv
+weightLogInfo_merged.csv
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS / OS metadata
+.DS_Store
+Thumbs.db
